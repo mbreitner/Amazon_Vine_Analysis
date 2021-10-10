@@ -10,15 +10,15 @@ The purpose of this analysis was to review Amazon reviews that were written by m
 
 How many Vine reviews and non-Vine reviews were there?
 
--- Overall, there were 15,742 Vine sponsored reviews and 49,637 non-sponsored reviews
+- Overall, there were 15,742 Vine sponsored reviews and 49,637 non-sponsored reviews
 
 How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
--- There were 4,704 5 star reviews from the Vine reviewers and 15,783 from the non-vine reviewers.
+- There were 4,704 5 star reviews from the Vine reviewers and 15,783 from the non-vine reviewers.
 
 What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
--- The % of Vine reviews that were 5 stars was 29.8% and the % of non-vine reviews that were 5 stars was 31.7%.
+- The % of Vine reviews that were 5 stars was 29.8% and the % of non-vine reviews that were 5 stars was 31.7%.
 
 ## Summary
 Based on my analysis, I cannot statistically say there is a bias from the paid reviews compared to the non-paid reviews. It turns out, based on this dataset, consumers of video games are more likely to naturally give the product a 5 star rating because the % of ratings was 2% higher for the non-paid reviews.

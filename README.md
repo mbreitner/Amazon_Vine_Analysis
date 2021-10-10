@@ -20,8 +20,14 @@ What percentage of Vine reviews were 5 stars? What percentage of non-Vine review
 
 -- The % of Vine reviews that were 5 stars was 29.8% and the % of non-vine reviews that were 5 stars was 31.7%.
 
-## Summarye
+## Summary
 Based on my analysis, I cannot statistically say there is a bias from the paid reviews compared to the non-paid reviews. It turns out, based on this dataset, consumers of video games are more likely to naturally give the product a 5 star rating because the % of ratings was 2% higher for the non-paid reviews.
 
 ## Additional Analysis
 I could have ran a similar analysis for the average star rating and see if the paid vs. non-paid reviews showed any statistical difference. I could have also analyzed the helpful to total vote ratio to see if that showed any bias as well. 
+
+![image](https://user-images.githubusercontent.com/84791455/136713283-95f66daa-107e-4db8-aac0-71e9ee51020a.png)
+
+![image](https://user-images.githubusercontent.com/84791455/136713287-f8e487c7-61e6-44b2-b574-7caabd22fe4a.png)
+
+
